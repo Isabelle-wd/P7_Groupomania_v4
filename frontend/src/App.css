@@ -31,3 +31,7 @@ label {
   border-radius: 50%;
 }
 
+.bg-myColor { 
+  background: linear-gradient(90deg, rgba(18, 36, 65, 1) 0%, rgba(253,45,1,1) 35%, rgba(255,208,206,1) 100%);
+}
+
